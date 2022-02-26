@@ -1,7 +1,7 @@
-# Hi there, I'm Willy! 👋
+# Bonjour, Hi! I'm Willy! 👋
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
+[![Linkedin Badge](https://img.shields.io/badge/willykao-LinkedIn-blue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/willykao/)](https://www.linkedin.com/in/willykao/)
+[![Email Badge](https://img.shields.io/badge/willy.kao.1%40ens.etsmtl.ca-Outlook-blue?style=plastic&logo=mail)](mailto:willy.kao.1@ens.etsmtl.ca)
 
 I'm currently a Software Engineering student from Montreal, QC, CA.
 
