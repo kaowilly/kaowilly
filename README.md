@@ -3,7 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/willykao-LinkedIn-blue?style=plastic&logo=linkedin&link=https://www.linkedin.com/in/willykao/)](https://www.linkedin.com/in/willykao/)
 [![Email Badge](https://img.shields.io/badge/willy.kao.1%40ens.etsmtl.ca-Outlook-blue?style=plastic&logo=mail)](mailto:willy.kao.1@ens.etsmtl.ca)
 
-I'm currently a Software Engineering student at ÉTS from Montreal, QC, CA.
+## 🧑🏻 About Me
+
+- 📖 I'm currently studying Software Engineering at ÉTS located in Montréal, QC, CA. 🍁
+- 🔋 Software Developer at Schneider Electric.
+- 🚢 Software Team Member of SONIA AUV.
 
 <details>
   <summary>💻 Programming Languages: </summary>
