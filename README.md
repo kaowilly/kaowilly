@@ -7,7 +7,7 @@
 
 - 📖 I'm currently studying Software Engineering at ÉTS located in Montréal, QC, CA. 🍁
 - 🔋 Software Developer at Schneider Electric.
-- 🚢 Software Team Member of SONIA, a student-run technical club focusing on building AUVs to compete at the annual RoboSub.
+- 🚢 Active member of SONIA, a student-run technical club focusing on building AUVs to compete at the annual RoboSub.
 
 <details>
   <summary>💻 Programming Languages: </summary>
